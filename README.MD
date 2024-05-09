@@ -2,6 +2,8 @@
 
 DriverEasy Pro Activated and Portablized.
 
+![DriverEasy Screenshot](https://github.com/whalelinguni/DriverEasyProPortable/blob/main/Screenshot.png?raw=true)
+
 ## Description
 
 DriverEasy is a powerful software tool designed to automatically detect, download, and fix driver issues on your computer. With its user-friendly interface and comprehensive database, DriverEasy makes it easy to keep your drivers up-to-date, ensuring optimal performance for your hardware components.
