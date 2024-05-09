@@ -2,6 +2,10 @@
 
 DriverEasy Pro Activated and Portablized.
 
+Shit. forgot about the hosts file.
+0.0.0.0 app.drivereasy.com
+0.0.0.0 cdn.drivereasy.com
+
 ![DriverEasy Screenshot](https://github.com/whalelinguni/DriverEasyProPortable/blob/main/Screenshot.png?raw=true)
 
 ## Description
