@@ -17,7 +17,9 @@ DriverEasy is a powerful software tool designed to automatically detect, downloa
 	The txt file can then be parsed and use something like wget to grab all the drivers. 
 	
 	- Check DriverEasy-EncryptFunction.txt for the code. Is .NET to make it easy as well.
-		private static readonly string a = "39096799Easy";
+		
+private static readonly string a = "39096799Easy";
+
 ![DriverEasy Code](https://github.com/whalelinguni/DriverEasyProPortable/blob/main/DriverEasyEncrypt-Decrypt-Codepng.png?raw=true)
 
 
